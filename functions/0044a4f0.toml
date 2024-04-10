@@ -1,4 +1,16 @@
 [metadata]
 addr = 0x44a4f0
 size = 0x32
-last_change = 2024-04-10T12:45:33.036851Z
+last_change = 2024-04-10T12:45:34.687072Z
+
+[header]
+last_change = 2024-04-10T12:45:34.687072Z
+name = "start"
+addr = 0x44a4f0
+type = "_BYTE *"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "_BYTE *"
+size = 0x8
