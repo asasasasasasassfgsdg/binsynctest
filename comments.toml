@@ -1,0 +1,6 @@
+[0x44a576]
+last_change = 2024-04-10T12:45:09.576213Z
+addr = 0x44a576
+func_addr = 0x44a560
+comment = "this is a commnet in the wee function\n"
+decompiled = false
