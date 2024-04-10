@@ -1,9 +1,9 @@
 [metadata]
 addr = 0x44a560
 size = 0xcb
-last_change = 2024-04-10T12:42:33.538557Z
+last_change = 2024-04-10T12:42:39.744375Z
 
 [header]
-last_change = 2024-04-10T12:42:33.538557Z
-name = "wee"
+last_change = 2024-04-10T12:42:39.744375Z
+name = "wee_func"
 addr = 0x44a560
