@@ -1,9 +1,68 @@
 [metadata]
 addr = 0x44a560
 size = 0xcb
-last_change = 2024-04-10T12:45:09.576213Z
+last_change = 2024-04-10T12:45:35.012070Z
 
 [header]
-last_change = 2024-04-10T12:42:43.839216Z
+last_change = 2024-04-10T12:45:32.993851Z
 name = "wee_func"
 addr = 0x44a560
+type = "_BYTE *"
+
+[stack_vars.-0x30]
+offset = -48
+name = "v35"
+type = "long (__fastcall *)(_DWORD *, _BYTE *, long)"
+size = 0x8
+addr = 0x44a560
+
+[stack_vars.-0x28]
+offset = -40
+name = "v36"
+type = "long"
+size = 0x8
+addr = 0x44a560
+
+[stack_vars.-0x20]
+offset = -32
+name = "v37"
+type = "int"
+size = 0x4
+addr = 0x44a560
+
+[stack_vars.-0x18]
+offset = -24
+name = "v38"
+type = "_DWORD *"
+size = 0x8
+addr = 0x44a560
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "_DWORD *"
+size = 0x8
+
+[header.args.1]
+offset = 0x1
+name = "a2"
+type = "_BYTE *"
+size = 0x8
+
+[header.args.2]
+offset = 0x2
+name = "a3"
+type = "long"
+size = 0x8
+
+[header.args.3]
+offset = 0x3
+name = "a4"
+type = "long"
+size = 0x8
+
+[header.args.4]
+offset = 0x4
+name = "a5"
+type = "char"
+size = 0x1
