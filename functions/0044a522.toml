@@ -1,9 +1,34 @@
 [metadata]
 addr = 0x44a522
 size = 0x3e
-last_change = 2024-04-10T12:33:17.759221Z
+last_change = 2024-04-10T12:36:14.356445Z
 
 [header]
-last_change = 2024-04-10T12:33:17.759221Z
-name = "unknown_func"
+last_change = 2024-04-10T12:36:14.285445Z
+name = "unknown_func_1"
 addr = 0x44a522
+type = "int *"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "_DWORD *"
+size = 0x8
+
+[header.args.1]
+offset = 0x1
+name = "a2"
+type = "long"
+size = 0x8
+
+[header.args.2]
+offset = 0x2
+name = "a3"
+type = "long"
+size = 0x8
+
+[header.args.3]
+offset = 0x3
+name = "a4"
+type = "unsigned int"
+size = 0x4
